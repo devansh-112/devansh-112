@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devansh-112
 - 👀 I’m interested in Story writing
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Python
 \
 
 <!---
